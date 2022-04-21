@@ -1,2 +1,2 @@
-# react-course-real-hooks
+# react-custom-hooks
 Created with CodeSandbox
